@@ -7,4 +7,5 @@ Página web feito para treinar os fundamentos de HTML e CSS.
 <h2> ✔️ Técnicas e tecnologias utilizadas </h2>
 
 - ``HTML``
-- ``CSS``cd
+- ``CSS``
+- ``Flex-Box``
