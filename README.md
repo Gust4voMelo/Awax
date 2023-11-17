@@ -8,4 +8,3 @@ Página web feito para treinar os fundamentos de HTML e CSS.
 
 - ``HTML``
 - ``CSS``
-- ``Flex-Box``
