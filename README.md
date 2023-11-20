@@ -8,3 +8,6 @@ Página web feito para treinar os fundamentos de HTML e CSS.
 
 - ``HTML``
 - ``CSS``
+
+## 📁 Acesso ao projeto
+Você pode acessar o projeto clicando [aqui](https://awax-gust4vomelo.netlify.app).
